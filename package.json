@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-transform-es2015-modules-factory",
+  "version": "6.0.0",
+  "description": "",
+  "repository": "https://github.com/yanbingbing/babel-plugin-transform-es2015-modules-factory",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+    "babel-template": "^6.3.13",
+    "babel-runtime": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel": "5.8.21",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.3.0"
+  },
+  "keywords": [
+    "babel-plugin"
+  ]
+}
